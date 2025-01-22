@@ -16,19 +16,18 @@ function HeroSection() {
                     {/* Text Section */}
                     <div>
                         <h1 className="text-xl md:text-4xl mb-1 md:mb-3 text-pink-600 font-semibold dark:text-pink-500">
-                            Hi, I&apos;m Eric Lombo
+                            Hello, I&apos;m Eric Lombo
                         </h1>
                         <p className="text-md md:text-xl max-w-md mb-3 text-pink-900 dark:text-white">
-                            I&apos;m a full-stack web developer based in Nairobi, Kenya.
-                            <span>
-                                I have developed many types of web applications from well-known DJ applications to eCommerce booking platforms. 
-                                I&apos;m passionate about cutting-edge, pixel-perfect, beautiful interfaces.
-                            </span>
+                            I am a Junior Full-Stack Developer with a passion for creating dynamic and responsive web applications. Based in Nairobi, Kenya, I specialize in both front-end and back-end technologies, and I&apos;m driven by the challenge of building innovative solutions that meet user needs.
+                        </p>
+                        <p className="text-md md:text-xl max-w-md mb-3 text-pink-900 dark:text-white">
+                            I have hands-on experience with a variety of technologies such as JavaScript, React, Node.js, and MongoDB, and I&apos;m always eager to learn and grow in the ever-evolving world of software development.
                         </p>
                         <a 
-                            href="#" 
+                            href="#projects" 
                             className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-pink-700 md:text-md">
-                            My Works
+                            Explore My Projects
                         </a>
                     </div>
                 </div>
